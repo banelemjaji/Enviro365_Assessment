@@ -9,7 +9,7 @@ src/
                 ├── model/                # Entity classes
                 ├── repository/           # JPA repositories
                 ├── service/              # Business logic
-                └── Application.java  # Main application entry point
+                └── Application.java      # Main application entry point
 ```
 
 ---
